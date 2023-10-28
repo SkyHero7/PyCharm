@@ -1,2 +1,3 @@
-from funcs import summa
+from funcs import summa, const
 summa()
+const()
